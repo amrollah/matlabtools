@@ -7,7 +7,7 @@ source code, including comments on how to use it.
 
 
 ||[http://matlabtools.googlecode.com/svn/trunk/docs/synopsis/util.html util] || General purpose utility functions for e.g. operating on strings, cells, structs, etc ||
-|| [http://matlabtools.googlecode.com/svn/trunk/docs/synopsis/stats.html stats] || Statistics related functions. See also [http://pmtk3.googleCode.com/ PMTK]. ||
+|| [http://matlabtools.googlecode.com/svn/trunk/docs/synopsis/stats.html stats] || Statistics related functions. See also [http://pmtk3.googleCode.com/ PMTK] ||
 || [http://matlabtools.googlecode.com/svn/trunk/docs/synopsis/graph.html graph] || Functions for operating on graphs represented as adjacency matrices ||
 || [http://matlabtools.googlecode.com/svn/trunk/docs/synopsis/oop.html oop] || Tools for object oriented programming in Matlab ||
 || [http://matlabtools.googlecode.com/svn/trunk/docs/synopsis/graphics.html graphics] || Various graphics related functions ||
