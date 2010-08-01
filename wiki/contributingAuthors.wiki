@@ -1,13 +1,6 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
-
-Add your content here.
+#summary A list of contributed files and their authors.
 
 
-= Details =
+  * [http://matlabtools.googlecode.com/svn/trunk/docs/authors/fileAuthorsMt.html Contributed Files]
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * [http://matlabtools.googlecode.com/svn/trunk/docs/authors/authorsLOCmt.html Contributing Authors]
