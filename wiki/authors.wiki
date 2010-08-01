@@ -1,6 +1,0 @@
-#summary A list of contributed files and their authors.
-
-
-  * [http://matlabtools.googlecode.com/svn/trunk/docs/authors/fileAuthorsMt.html Contributed Files]
-
-  * [http://matlabtools.googlecode.com/svn/trunk/docs/authors/authorsLOCmt.html Contributing Authors]
