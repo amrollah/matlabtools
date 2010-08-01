@@ -1,7 +1,7 @@
 #summary Instructions on adding or updating files
 
-`MatlabTools` is automatically downloaded by the [http://pmtk3.googlecode.com PMTK3] package. For this to work, the matlabTools.zip file must be kept up to date. 
+`MatlabTools` is automatically downloaded by the [http://pmtk3.googlecode.com PMTK3] package. For this to work, the matlabTools.zip file must be kept up to date. Please follow these steps when making changes. 
 
   # Make sure all of the changes have been checked into the svn repository. 
-  # Make sure `MatlabTools` is on your matlab path and Run {{{refreshMatlabToolsZip}}}
+  # With `MatlabTools` on your matlab path, run {{{refreshMatlabToolsZip}}}.
   # Check the 'refreshed' zip file into svn.
