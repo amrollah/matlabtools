@@ -5,3 +5,4 @@
   # Make sure all of the changes have been checked into the svn repository. 
   # With `MatlabTools` on your matlab path, run {{{refreshMatlabToolsZip}}}.
   # Check the 'refreshed' zip file into svn.
+  # Update the online documentation by running the reports in [http://matlabtools.googlecode.com/svn/trunk/meta/localReports/ meta/localReports]
